@@ -1,3 +1,5 @@
+### The objective of this repo is building dist and create git tag for new version that owner does not ready to publish on npm
+
 # ng2-completer
 
 Auto complete component for Angular 2.
